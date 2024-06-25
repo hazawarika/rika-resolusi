@@ -2,5 +2,5 @@ Hazawa RikA Resolusi:
   1. Mempelajari GitHub
   2. Mempelajari Bahasa Inggris untuk TOEFL
   3. Mempelajari pembuatan web (seperti undangan online dan website toko)
-  4. Mempelajari front end (css & javascript)
-  5. Mendapat pekerjaan
+  4. Mendapat pekerjaan
+  5. Mendapatkan pengalaman kerja
